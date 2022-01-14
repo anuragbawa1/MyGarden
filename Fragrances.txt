@@ -1,0 +1,7 @@
+Adding new file fragrances.txt to the main branch. Flowers are still in Flowers branch only.
+
+We have the following fragrances-
+
+Rose
+Lotus
+Lilies
