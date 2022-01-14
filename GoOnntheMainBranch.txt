@@ -1,0 +1,6 @@
+I was satisfies with the changes that we did on the experimental Flowers branch. So I can say that we pulled in the changes from Flowers branch to the main branch. Or, alternatively, I can say
+that we merged the changes on Flowers branch to the main branch. Now everything have evrything that was on the main branch plus eveything that we had on the Flowers branch.
+Hence we are good to go for development on main branch and delete the Flowers branch as those changes are already in our main branch.
+Hopefully, next time we'd like to do something experimental, we'll create a new experimental branch and add commits to it.
+
+So, going good :)
